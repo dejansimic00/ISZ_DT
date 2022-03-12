@@ -1,7 +1,7 @@
 SU1 - Kreiranje novog korisničkog naloga
 SU2 - Prijava na sistem
 SU3 - Odjava sa sistema
-SU4
+SU4 - Unos mjesta privremenog boravka(kampa)
 SU5
 SU6
 SU7
