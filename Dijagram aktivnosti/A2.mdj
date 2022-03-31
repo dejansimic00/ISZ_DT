@@ -369,7 +369,7 @@
 													"top": 183,
 													"width": 189.25537109375,
 													"height": 13,
-													"text": "Pristup prezistentom sloju"
+													"text": "Pristup perzistentnom sloju"
 												},
 												{
 													"_type": "LabelView",
@@ -544,7 +544,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 296,
-											"top": 525,
+											"top": 509,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -565,7 +565,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 311,
-											"top": 525,
+											"top": 509,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -586,7 +586,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 267,
-											"top": 526,
+											"top": 510,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -603,7 +603,7 @@
 									"tail": {
 										"$ref": "AAAAAAF/1fRMqhzdOEE="
 									},
-									"points": "282:504;282:560",
+									"points": "282:472;282:560",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF/1fjbnx0Vv/A="
@@ -643,8 +643,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -64,
-													"top": 240,
+													"left": -80,
+													"top": 176,
 													"height": 13
 												},
 												{
@@ -654,8 +654,8 @@
 														"$ref": "AAAAAAF/1fRMqhzePWE="
 													},
 													"font": "Arial;13;1",
-													"left": 197,
-													"top": 471,
+													"left": 189,
+													"top": 439,
 													"width": 175.5634765625,
 													"height": 13,
 													"text": "Pregled prikazanog sadržaja"
@@ -668,8 +668,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -64,
-													"top": 240,
+													"left": -80,
+													"top": 176,
 													"width": 86.6708984375,
 													"height": 13,
 													"text": "(from Korisnik)"
@@ -682,15 +682,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -64,
-													"top": 240,
+													"left": -80,
+													"top": 176,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 192,
-											"top": 464,
+											"left": 184,
+											"top": 432,
 											"width": 185.5634765625,
 											"height": 25,
 											"stereotypeLabel": {
@@ -712,8 +712,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 192,
-									"top": 464,
+									"left": 184,
+									"top": 432,
 									"width": 185.5634765625,
 									"height": 41,
 									"nameCompartment": {
@@ -1328,8 +1328,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 494,
-											"top": 464,
+											"left": 487,
+											"top": 457,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -1349,8 +1349,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 496,
-											"top": 479,
+											"left": 487,
+											"top": 472,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1370,8 +1370,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 489,
-											"top": 435,
+											"left": 488,
+											"top": 427,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1388,8 +1388,7 @@
 									"tail": {
 										"$ref": "AAAAAAF/1gVawTndTcE="
 									},
-									"lineStyle": 1,
-									"points": "607:441;378:472",
+									"points": "608:448;369:448",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF/1gaZWDqN4Jg="
@@ -1446,7 +1445,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/1e90gRwdQtY="
 							},
-							"name": "Pristup prezistentom sloju"
+							"name": "Pristup perzistentnom sloju"
 						},
 						{
 							"_type": "UMLObjectNode",

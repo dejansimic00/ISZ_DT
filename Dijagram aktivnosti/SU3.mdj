@@ -496,7 +496,7 @@
 													"top": 142,
 													"width": 80.18359375,
 													"height": 13,
-													"text": "[nekreiran]"
+													"text": "[inicijalno]"
 												},
 												{
 													"_type": "LabelView",
@@ -1400,7 +1400,7 @@
 													"top": 574,
 													"width": 80.18359375,
 													"height": 13,
-													"text": "[kreiran]"
+													"text": "[kreirano]"
 												},
 												{
 													"_type": "LabelView",
@@ -2832,7 +2832,7 @@
 													"top": 175,
 													"width": 59.97900390625,
 													"height": 13,
-													"text": "nekreiran"
+													"text": "inicijalno"
 												},
 												{
 													"_type": "LabelView",
@@ -2977,9 +2977,9 @@
 													"font": "Arial;13;1",
 													"left": 293,
 													"top": 183,
-													"width": 50,
+													"width": 51.3017578125,
 													"height": 13,
-													"text": "kreiran"
+													"text": "kreirano"
 												},
 												{
 													"_type": "LabelView",
@@ -3008,7 +3008,7 @@
 											"font": "Arial;13;0",
 											"left": 288,
 											"top": 176,
-											"width": 60,
+											"width": 61.3017578125,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF/qFci/3W40N4="
@@ -3063,14 +3063,14 @@
 											"font": "Arial;13;0",
 											"left": 288,
 											"top": 201,
-											"width": 60
+											"width": 61.3017578125
 										}
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
 									"left": 288,
 									"top": 176,
-									"width": 60,
+									"width": 61.3017578125,
 									"height": 40,
 									"nameCompartment": {
 										"$ref": "AAAAAAF/qFci/3W3Af4="
@@ -3102,7 +3102,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF/qFbtwHWJFPc="
 									},
-									"name": "nekreiran"
+									"name": "inicijalno"
 								},
 								{
 									"_type": "UMLState",
@@ -3110,7 +3110,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF/qFbtwHWJFPc="
 									},
-									"name": "kreiran"
+									"name": "kreirano"
 								}
 							]
 						}
