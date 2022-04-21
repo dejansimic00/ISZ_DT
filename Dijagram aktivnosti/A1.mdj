@@ -1140,9 +1140,9 @@
 													"font": "Arial;13;1",
 													"left": 421,
 													"top": 655,
-													"width": 215.998046875,
+													"width": 231.16259765625,
 													"height": 13,
-													"text": "Upis obavještenja u bazu podataka"
+													"text": "Upis obavještenja u perzistentni sloj"
 												},
 												{
 													"_type": "LabelView",
@@ -1175,7 +1175,7 @@
 											"font": "Arial;13;0",
 											"left": 416,
 											"top": 648,
-											"width": 225.998046875,
+											"width": 241.16259765625,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF/qU2e5+QGbSY="
@@ -1195,7 +1195,7 @@
 									"containerChangeable": true,
 									"left": 416,
 									"top": 648,
-									"width": 225.998046875,
+									"width": 241.16259765625,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAF/qU2e5+QFzu8="
@@ -1434,8 +1434,8 @@
 												"$ref": "AAAAAAF/qU2e6eRY3so="
 											},
 											"font": "Arial;13;0",
-											"left": 479,
-											"top": 717,
+											"left": 482,
+											"top": 718,
 											"width": 130.076171875,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -1457,8 +1457,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 559,
-											"top": 717,
+											"left": 562,
+											"top": 719,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1478,8 +1478,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 515,
-											"top": 718,
+											"left": 518,
+											"top": 717,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1497,7 +1497,7 @@
 										"$ref": "AAAAAAF/qU2e5+QE6+o="
 									},
 									"lineStyle": 1,
-									"points": "529:689;531:759",
+									"points": "535:689;531:759",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF/qU2e5+QWeWc="
@@ -2547,7 +2547,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/qU2e5ePLCEk="
 							},
-							"name": "Upis obavještenja u bazu podataka"
+							"name": "Upis obavještenja u perzistentni sloj"
 						},
 						{
 							"_type": "UMLAction",

@@ -597,13 +597,64 @@
 											"height": 13,
 											"text": "+validacijaPodataka()",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGASzz4EdZ+zbw=",
+											"_parent": {
+												"$ref": "AAAAAAGACojNlFDnCX8="
+											},
+											"model": {
+												"$ref": "AAAAAAGAQWMFOcfnCZU="
+											},
+											"font": "Arial;13;0",
+											"left": 725,
+											"top": 157,
+											"width": 141.2353515625,
+											"height": 13,
+											"text": "+kreirajNalog()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGASzz4EtaBcv4=",
+											"_parent": {
+												"$ref": "AAAAAAGACojNlFDnCX8="
+											},
+											"model": {
+												"$ref": "AAAAAAGAQWN+FsgAo/c="
+											},
+											"font": "Arial;13;0",
+											"left": 725,
+											"top": 172,
+											"width": 141.2353515625,
+											"height": 13,
+											"text": "+evidencijaNaloga()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGASzz4EtaEn/Y=",
+											"_parent": {
+												"$ref": "AAAAAAGACojNlFDnCX8="
+											},
+											"model": {
+												"$ref": "AAAAAAGAQWSXqshTINY="
+											},
+											"font": "Arial;13;0",
+											"left": 725,
+											"top": 187,
+											"width": 141.2353515625,
+											"height": 13,
+											"text": "+obradiPodatke()",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 720,
 									"top": 107,
 									"width": 151.2353515625,
-									"height": 53
+									"height": 98
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -641,7 +692,7 @@
 							"left": 720,
 							"top": 72,
 							"width": 151.2353515625,
-							"height": 88,
+							"height": 133,
 							"nameCompartment": {
 								"$ref": "AAAAAAGACojNlFDh4rw="
 							},
@@ -697,7 +748,7 @@
 											"font": "Arial;13;1",
 											"left": 637,
 											"top": 215,
-											"width": 89.58447265625,
+											"width": 115.2607421875,
 											"height": 13,
 											"text": "Lista"
 										},
@@ -728,7 +779,7 @@
 									"font": "Arial;13;0",
 									"left": 632,
 									"top": 208,
-									"width": 99.58447265625,
+									"width": 125.2607421875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGACpa6flGQ38I="
@@ -755,7 +806,7 @@
 									"font": "Arial;13;0",
 									"left": 632,
 									"top": 233,
-									"width": 99.58447265625,
+									"width": 125.2607421875,
 									"height": 10
 								},
 								{
@@ -780,17 +831,34 @@
 											"font": "Arial;13;0",
 											"left": 637,
 											"top": 248,
-											"width": 89.58447265625,
+											"width": 115.2607421875,
 											"height": 13,
 											"text": "+getLista()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGASzz4FNaHwmY=",
+											"_parent": {
+												"$ref": "AAAAAAGACpa6f1GV9vw="
+											},
+											"model": {
+												"$ref": "AAAAAAGAQWPEXcgkqa4="
+											},
+											"font": "Arial;13;0",
+											"left": 637,
+											"top": 263,
+											"width": 115.2607421875,
+											"height": 13,
+											"text": "+evidencijaNaloga()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 632,
 									"top": 243,
-									"width": 99.58447265625,
-									"height": 23
+									"width": 125.2607421875,
+									"height": 38
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -825,8 +893,8 @@
 							"containerChangeable": true,
 							"left": 632,
 							"top": 208,
-							"width": 99.58447265625,
-							"height": 58,
+							"width": 125.2607421875,
+							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAGACpa6flGPo04="
 							},
@@ -867,7 +935,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGACoWrnFARv18="
 									},
-									"name": "SequenceDiagram1",
+									"name": "Kreiranje korisničkog naloga",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -888,9 +956,9 @@
 													"font": "Arial;13;0",
 													"left": 24.72998046875,
 													"top": 5,
-													"width": 115.9052734375,
+													"width": 164.3125,
 													"height": 13,
-													"text": "SequenceDiagram1"
+													"text": "Kreiranje korisničkog naloga"
 												},
 												{
 													"_type": "LabelView",
@@ -1690,7 +1758,7 @@
 													"left": 480,
 													"top": 216,
 													"width": 14,
-													"height": 48
+													"height": 65
 												}
 											],
 											"font": "Arial;13;0",
