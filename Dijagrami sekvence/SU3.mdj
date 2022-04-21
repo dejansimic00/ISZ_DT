@@ -337,13 +337,30 @@
 											"height": 13,
 											"text": "+prikazIzvjestaja()",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGAS6IU7FuTPu8=",
+											"_parent": {
+												"$ref": "AAAAAAGACojFsFC+HeI="
+											},
+											"model": {
+												"$ref": "AAAAAAGAHdqo/slBdRY="
+											},
+											"font": "Arial;13;0",
+											"left": 429,
+											"top": 134,
+											"width": 113.80712890625,
+											"height": 13,
+											"text": "+prikaziGresku()",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 424,
 									"top": 99,
 									"width": 123.80712890625,
-									"height": 38
+									"height": 53
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -383,7 +400,7 @@
 							"left": 424,
 							"top": 64,
 							"width": 123.80712890625,
-							"height": 73,
+							"height": 88,
 							"nameCompartment": {
 								"$ref": "AAAAAAGACojFsFC4URQ="
 							},
@@ -1629,7 +1646,7 @@
 													"left": 745,
 													"top": 168,
 													"width": 14,
-													"height": 29
+													"height": 41
 												}
 											],
 											"font": "Arial;13;0",
@@ -1839,7 +1856,7 @@
 															"left": 40,
 															"top": 223,
 															"width": 816,
-															"height": 138,
+															"height": 106,
 															"guardLabel": {
 																"$ref": "AAAAAAGACpuPw1Jb4DM="
 															}
@@ -1862,7 +1879,7 @@
 																	},
 																	"font": "Arial;13;0",
 																	"left": 60,
-																	"top": 376,
+																	"top": 344,
 																	"width": 73.7216796875,
 																	"height": 13,
 																	"text": "[neuspjesno]"
@@ -1870,7 +1887,7 @@
 															],
 															"font": "Arial;13;0",
 															"left": 40,
-															"top": 361,
+															"top": 329,
 															"width": 816,
 															"height": 43,
 															"guardLabel": {
@@ -1882,7 +1899,7 @@
 													"left": 40,
 													"top": 223,
 													"width": 816,
-													"height": 181
+													"height": 149
 												}
 											],
 											"font": "Arial;13;0",
