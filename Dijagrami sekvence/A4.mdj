@@ -229,7 +229,7 @@
 											"font": "Arial;13;1",
 											"left": 429,
 											"top": 71,
-											"width": 144.14892578125,
+											"width": 214.2841796875,
 											"height": 13,
 											"text": "UIForma"
 										},
@@ -264,7 +264,7 @@
 									"font": "Arial;13;0",
 									"left": 424,
 									"top": 64,
-									"width": 154.14892578125,
+									"width": 224.2841796875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGACojFsFC5CcY="
@@ -291,7 +291,7 @@
 									"font": "Arial;13;0",
 									"left": 424,
 									"top": 89,
-									"width": 154.14892578125,
+									"width": 224.2841796875,
 									"height": 10
 								},
 								{
@@ -316,7 +316,7 @@
 											"font": "Arial;13;0",
 											"left": 429,
 											"top": 104,
-											"width": 144.14892578125,
+											"width": 214.2841796875,
 											"height": 13,
 											"text": "+prikaziKreiraneNaloge()",
 											"horizontalAlignment": 0
@@ -333,17 +333,34 @@
 											"font": "Arial;13;0",
 											"left": 429,
 											"top": 119,
-											"width": 144.14892578125,
+											"width": 214.2841796875,
 											"height": 13,
 											"text": "+pregledIzvjestaja()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGAUEV+9bQIyXA=",
+											"_parent": {
+												"$ref": "AAAAAAGACojFsFC+HeI="
+											},
+											"model": {
+												"$ref": "AAAAAAGAHgM5AKfbz9c="
+											},
+											"font": "Arial;13;0",
+											"left": 429,
+											"top": 134,
+											"width": 214.2841796875,
+											"height": 13,
+											"text": "+obavjestenjeOnepostojanjuNaloga()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 424,
 									"top": 99,
-									"width": 154.14892578125,
-									"height": 38
+									"width": 224.2841796875,
+									"height": 53
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -382,8 +399,8 @@
 							"containerChangeable": true,
 							"left": 424,
 							"top": 64,
-							"width": 154.14892578125,
-							"height": 73,
+							"width": 224.2841796875,
+							"height": 88,
 							"nameCompartment": {
 								"$ref": "AAAAAAGACojFsFC4URQ="
 							},
@@ -804,7 +821,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGACoWrnFARv18="
 									},
-									"name": "SequenceDiagram1",
+									"name": "Pregled kreiranih naloga",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -825,9 +842,9 @@
 													"font": "Arial;13;0",
 													"left": 24.72998046875,
 													"top": 5,
-													"width": 115.9052734375,
+													"width": 141.92431640625,
 													"height": 13,
-													"text": "SequenceDiagram1"
+													"text": "Pregled kreiranih naloga"
 												},
 												{
 													"_type": "LabelView",
