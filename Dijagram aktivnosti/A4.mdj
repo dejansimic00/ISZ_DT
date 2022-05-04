@@ -34,7 +34,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/1iIEgSORTXc="
 							},
-							"name": "ActivityDiagram1",
+							"name": "Pregled kreiranih naloga",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -679,7 +679,7 @@
 											"font": "Arial;13;0",
 											"left": 455,
 											"top": 392,
-											"width": 18.05908203125,
+											"width": 18.7763671875,
 											"height": 13,
 											"alpha": -1.6124390621134035,
 											"distance": 24.020824298928627,
@@ -1074,7 +1074,7 @@
 													"left": 488,
 													"top": 111,
 													"width": 161.13525390625,
-													"height": 26,
+													"height": 13,
 													"text": "Spisak kreiranih korisnika",
 													"wordWrap": true
 												},
@@ -1110,7 +1110,7 @@
 											"left": 483,
 											"top": 104,
 											"width": 171.13525390625,
-											"height": 38,
+											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF/1i+wriXxN74="
 											},
@@ -1286,7 +1286,7 @@
 													"left": 412,
 													"top": 591,
 													"width": 161.13525390625,
-													"height": 26,
+													"height": 13,
 													"text": "Spisak kreiranih korisnika",
 													"wordWrap": true
 												},
@@ -1322,7 +1322,7 @@
 											"left": 407,
 											"top": 584,
 											"width": 171.13525390625,
-											"height": 38,
+											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF/1jHXXSZYqIU="
 											},

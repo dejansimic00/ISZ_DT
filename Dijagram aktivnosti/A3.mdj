@@ -34,7 +34,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/1e+N8Z573Wk="
 							},
-							"name": "ActivityDiagram1",
+							"name": "Kreiranje korisnickog naloga",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",

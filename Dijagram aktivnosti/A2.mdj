@@ -34,7 +34,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/1e90gRwdQtY="
 							},
-							"name": "ActivityDiagram1",
+							"name": "Pregled arhive",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
