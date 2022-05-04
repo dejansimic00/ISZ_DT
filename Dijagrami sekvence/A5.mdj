@@ -496,8 +496,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -224,
-											"top": -80,
+											"left": -80,
+											"top": -112,
 											"height": 13
 										},
 										{
@@ -507,8 +507,8 @@
 												"$ref": "AAAAAAGACojNlFDh4rw="
 											},
 											"font": "Arial;13;1",
-											"left": 613,
-											"top": 79,
+											"left": 685,
+											"top": 63,
 											"width": 118.14892578125,
 											"height": 13,
 											"text": "Kontroler"
@@ -521,8 +521,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -224,
-											"top": -80,
+											"left": -80,
+											"top": -112,
 											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
@@ -535,15 +535,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -224,
-											"top": -80,
+											"left": -80,
+											"top": -112,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 608,
-									"top": 72,
+									"left": 680,
+									"top": 56,
 									"width": 128.14892578125,
 									"height": 25,
 									"stereotypeLabel": {
@@ -569,8 +569,8 @@
 										"$ref": "AAAAAAGACojNk1DehjI="
 									},
 									"font": "Arial;13;0",
-									"left": 608,
-									"top": 97,
+									"left": 680,
+									"top": 81,
 									"width": 128.14892578125,
 									"height": 10
 								},
@@ -594,8 +594,8 @@
 												"$ref": "AAAAAAGACpg0KVH1iIc="
 											},
 											"font": "Arial;13;0",
-											"left": 613,
-											"top": 112,
+											"left": 685,
+											"top": 96,
 											"width": 118.14892578125,
 											"height": 13,
 											"text": "+provjeraPodataka()",
@@ -611,8 +611,8 @@
 												"$ref": "AAAAAAGAHgU3Pc3vYGg="
 											},
 											"font": "Arial;13;0",
-											"left": 613,
-											"top": 127,
+											"left": 685,
+											"top": 111,
 											"width": 118.14892578125,
 											"height": 13,
 											"text": "+kreirajKamp()",
@@ -620,8 +620,8 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 608,
-									"top": 107,
+									"left": 680,
+									"top": 91,
 									"width": 128.14892578125,
 									"height": 38
 								},
@@ -636,8 +636,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -112,
-									"top": -40,
+									"left": -40,
+									"top": -56,
 									"width": 10,
 									"height": 10
 								},
@@ -652,16 +652,16 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -112,
-									"top": -40,
+									"left": -40,
+									"top": -56,
 									"width": 10,
 									"height": 10
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 608,
-							"top": 72,
+							"left": 680,
+							"top": 56,
 							"width": 128.14892578125,
 							"height": 73,
 							"nameCompartment": {
@@ -704,7 +704,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGACoWrnFARv18="
 									},
-									"name": "SequenceDiagram1",
+									"name": "Kreiranje novog kampa",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -725,9 +725,9 @@
 													"font": "Arial;13;0",
 													"left": 24.72998046875,
 													"top": 5,
-													"width": 115.9052734375,
+													"width": 134.68798828125,
 													"height": 13,
-													"text": "SequenceDiagram1"
+													"text": "Kreiranje novog kampa"
 												},
 												{
 													"_type": "LabelView",
@@ -1821,12 +1821,12 @@
 														"$ref": "AAAAAAGAHgUgO83ZuGE="
 													},
 													"font": "Arial;13;0",
-													"left": 838,
-													"top": 328,
+													"left": 814,
+													"top": 352,
 													"width": 96.078125,
 													"height": 13,
-													"alpha": 1.4994878746999594,
-													"distance": 56.142675390472796,
+													"alpha": 0.8519654820405014,
+													"distance": 42.5205832509386,
 													"hostEdge": {
 														"$ref": "AAAAAAGAHgUgO83a/bE="
 													},
@@ -1911,19 +1911,6 @@
 											"activation": {
 												"$ref": "AAAAAAGAHgUgO83eTU8="
 											}
-										},
-										{
-											"_type": "UMLNoteView",
-											"_id": "AAAAAAGAHgnB1s5PaQI=",
-											"_parent": {
-												"$ref": "AAAAAAGACoWrnVASrwk="
-											},
-											"font": "Arial;13;0",
-											"left": 896,
-											"top": 280,
-											"width": 75.63720703125,
-											"height": 40,
-											"text": "domenski objekat"
 										},
 										{
 											"_type": "UMLSeqMessageView",
@@ -2168,9 +2155,9 @@
 														"$ref": "AAAAAAGAHgti4M6nsP0="
 													},
 													"font": "Arial;13;0",
-													"left": 616,
+													"left": 611,
 													"top": 483,
-													"width": 121.39892578125,
+													"width": 130.05712890625,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -2178,7 +2165,7 @@
 														"$ref": "AAAAAAGAHgti4M6oX34="
 													},
 													"edgePosition": 1,
-													"text": "8 : prikazNeuspjesno"
+													"text": "8 : prikazNeuspjesno()"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -2502,6 +2489,9 @@
 									},
 									"target": {
 										"$ref": "AAAAAAGACpYdflFT++U="
+									},
+									"signature": {
+										"$ref": "AAAAAAGAilE/gqXkxp0="
 									}
 								},
 								{
@@ -2723,6 +2713,14 @@
 								"$ref": "AAAAAAGACojFsFC1kFo="
 							},
 							"name": "prikazUspjesno"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGAilE/gqXkxp0=",
+							"_parent": {
+								"$ref": "AAAAAAGACojFsFC1kFo="
+							},
+							"name": "prikazNeuspjesno"
 						}
 					]
 				},

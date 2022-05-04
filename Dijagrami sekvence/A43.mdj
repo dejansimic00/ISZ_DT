@@ -624,7 +624,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGAQbK+EaEjHNM="
 									},
-									"name": "azuriranje Korisnika",
+									"name": "Azuriranje korisnickog naloga",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -643,11 +643,11 @@
 														"$ref": "AAAAAAGAQbK+EqElfAc="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 24.72998046875,
 													"top": 5,
-													"width": 115.16259765625,
+													"width": 170.8125,
 													"height": 13,
-													"text": "azuriranje Korisnika"
+													"text": "Azuriranje korisnickog naloga"
 												},
 												{
 													"_type": "LabelView",
@@ -656,7 +656,7 @@
 														"$ref": "AAAAAAGAQbK+EqElfAc="
 													},
 													"font": "Arial;13;1",
-													"left": 13,
+													"left": 5,
 													"top": 5,
 													"width": 14.72998046875,
 													"height": 13,
@@ -664,7 +664,6 @@
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 8,
 											"width": 745,
 											"height": 592,
 											"nameLabel": {
@@ -1038,12 +1037,12 @@
 														"$ref": "AAAAAAGAQbXsYaIv6Ng="
 													},
 													"font": "Arial;13;0",
-													"left": 327,
+													"left": 399,
 													"top": 171,
 													"width": 134.38623046875,
 													"height": 13,
-													"alpha": 1.5707963267948966,
-													"distance": 10,
+													"alpha": 1.5831403771151957,
+													"distance": 81.00617260431454,
 													"hostEdge": {
 														"$ref": "AAAAAAGAQbXsYaIw/64="
 													},
