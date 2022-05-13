@@ -1235,7 +1235,7 @@
 											"font": "Arial;13;1",
 											"left": 285,
 											"top": 575,
-											"width": 130.45703125,
+											"width": 153.56884765625,
 											"height": 13,
 											"text": "Kamp"
 										},
@@ -1270,7 +1270,7 @@
 									"font": "Arial;13;0",
 									"left": 280,
 									"top": 568,
-									"width": 140.45703125,
+									"width": 163.56884765625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAhMGVbt2fqHI="
@@ -1307,7 +1307,7 @@
 											"font": "Arial;13;0",
 											"left": 285,
 											"top": 598,
-											"width": 130.45703125,
+											"width": 153.56884765625,
 											"height": 13,
 											"text": "+naziv: String {unique}",
 											"horizontalAlignment": 0
@@ -1324,7 +1324,7 @@
 											"font": "Arial;13;0",
 											"left": 285,
 											"top": 613,
-											"width": 130.45703125,
+											"width": 153.56884765625,
 											"height": 13,
 											"text": "+kapacitet: Integer",
 											"horizontalAlignment": 0
@@ -1341,7 +1341,7 @@
 											"font": "Arial;13;0",
 											"left": 285,
 											"top": 628,
-											"width": 130.45703125,
+											"width": 153.56884765625,
 											"height": 13,
 											"text": "+status: StatusKampa",
 											"horizontalAlignment": 0
@@ -1358,9 +1358,9 @@
 											"font": "Arial;13;0",
 											"left": 285,
 											"top": 643,
-											"width": 130.45703125,
+											"width": 153.56884765625,
 											"height": 13,
-											"text": "+geografskaLokacija",
+											"text": "+geografskaLokacija: Real",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1375,7 +1375,7 @@
 											"font": "Arial;13;0",
 											"left": 285,
 											"top": 658,
-											"width": 130.45703125,
+											"width": 153.56884765625,
 											"height": 13,
 											"text": "+brojKampera: Integer",
 											"horizontalAlignment": 0
@@ -1384,7 +1384,7 @@
 									"font": "Arial;13;0",
 									"left": 280,
 									"top": 593,
-									"width": 140.45703125,
+									"width": 163.56884765625,
 									"height": 83
 								},
 								{
@@ -1399,7 +1399,7 @@
 									"font": "Arial;13;0",
 									"left": 280,
 									"top": 676,
-									"width": 140.45703125,
+									"width": 163.56884765625,
 									"height": 10
 								},
 								{
@@ -1439,7 +1439,7 @@
 							"containerChangeable": true,
 							"left": 280,
 							"top": 568,
-							"width": 140.45703125,
+							"width": 163.56884765625,
 							"height": 121,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAhMGVbt2epdM="
@@ -2376,7 +2376,7 @@
 											"top": 802,
 											"width": 86.72802734375,
 											"height": 13,
-											"text": "NEKATIVAN",
+											"text": "NEAKTIVAN",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2451,7 +2451,7 @@
 										"$ref": "AAAAAAGAhNogTPqaAwA="
 									},
 									"font": "Arial;13;0",
-									"left": 507,
+									"left": 519,
 									"top": 575,
 									"width": 54.564453125,
 									"height": 13,
@@ -2474,7 +2474,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 529,
+									"left": 541,
 									"top": 556,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2495,7 +2495,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 529,
+									"left": 541,
 									"top": 601,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2516,7 +2516,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 423,
+									"left": 447,
 									"top": 576,
 									"width": 50.9462890625,
 									"height": 13,
@@ -2539,7 +2539,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 447,
+									"left": 471,
 									"top": 557,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -2559,7 +2559,7 @@
 										"$ref": "AAAAAAGAhNogTPqbtto="
 									},
 									"font": "Arial;13;0",
-									"left": 431,
+									"left": 455,
 									"top": 598,
 									"width": 19.5126953125,
 									"height": 13,
@@ -2669,7 +2669,7 @@
 							"tail": {
 								"$ref": "AAAAAAGAhMGVbt2d6Fo="
 							},
-							"points": "419:592;640:592",
+							"points": "443:592;640:592",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAhNogTfqfZdI="
@@ -3223,7 +3223,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 613,
+									"left": 625,
 									"top": 643,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3244,7 +3244,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 613,
+									"left": 625,
 									"top": 628,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3265,7 +3265,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 613,
+									"left": 625,
 									"top": 673,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -3286,7 +3286,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 444,
+									"left": 468,
 									"top": 643,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -3307,7 +3307,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 447,
+									"left": 471,
 									"top": 629,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -3327,7 +3327,7 @@
 										"$ref": "AAAAAAGAhOoXOCLXviY="
 									},
 									"font": "Arial;13;0",
-									"left": 420,
+									"left": 444,
 									"top": 647,
 									"width": 29,
 									"height": 13,
@@ -3436,7 +3436,7 @@
 							"tail": {
 								"$ref": "AAAAAAGAhMGVbt2d6Fo="
 							},
-							"points": "419:664;808:664",
+							"points": "443:664;808:664",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAhOoXOCLbNXY="
@@ -5183,21 +5183,6 @@
 						},
 						{
 							"_type": "UMLNoteView",
-							"_id": "AAAAAAGAiwEYADAPur8=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"lineColor": "#0000d1",
-							"fillColor": "#d8e5ff",
-							"font": "Arial;13;0",
-							"left": 872,
-							"top": 416,
-							"width": 111.75537109375,
-							"height": 40,
-							"text": "multiplikativnost"
-						},
-						{
-							"_type": "UMLNoteView",
 							"_id": "AAAAAAGAiw5BFjnkvOY=",
 							"_parent": {
 								"$ref": "AAAAAAFF+qBtyKM79qY="
@@ -5482,51 +5467,6 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGAix0+i3rSXVg="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAGAizHv8bO2NNg=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"lineColor": "#0000ff",
-							"fillColor": "#d8f2ff",
-							"font": "Arial;13;0",
-							"left": 120,
-							"top": 664,
-							"width": 70.58447265625,
-							"height": 51,
-							"text": "geo. lokacija? TIP"
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAGAi0Ah9998Sro=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"lineColor": "#0000d1",
-							"fillColor": "#d8d8ff",
-							"font": "Arial;13;0",
-							"left": 192,
-							"top": 24,
-							"width": 70,
-							"height": 40,
-							"text": "Time??"
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAGAi3ply6NzH7s=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"lineColor": "#2b2bff",
-							"fillColor": "#ebd8ff",
-							"font": "Arial;13;0",
-							"left": 984,
-							"top": 696,
-							"width": 86.47900390625,
-							"height": 64,
-							"text": "Da li je bolje Association Class?"
 						},
 						{
 							"_type": "UMLDependencyView",
@@ -6357,7 +6297,7 @@
 								"$ref": "AAAAAAGAhMGVbt2b1vo="
 							},
 							"name": "geografskaLokacija",
-							"type": ""
+							"type": "Real"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6446,7 +6386,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGAhNdCqu1+7b4="
 							},
-							"name": "NEKATIVAN"
+							"name": "NEAKTIVAN"
 						},
 						{
 							"_type": "UMLEnumerationLiteral",
