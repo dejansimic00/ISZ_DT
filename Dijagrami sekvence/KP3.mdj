@@ -545,7 +545,7 @@
 											"top": 328,
 											"width": 109.46533203125,
 											"height": 13,
-											"text": "+provjeriiPodatke()",
+											"text": "+provjeriPodatke()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -859,9 +859,9 @@
 														"$ref": "AAAAAAGADpLAaNwcizI="
 													},
 													"font": "Arial;13;0",
-													"left": 24.72998046875,
+													"left": 22.55908203125,
 													"top": 5,
-													"width": 116.62890625,
+													"width": 106.751953125,
 													"height": 13,
 													"text": "Azuriranje podataka"
 												},
@@ -874,7 +874,7 @@
 													"font": "Arial;13;1",
 													"left": 5,
 													"top": 5,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -1366,9 +1366,9 @@
 														"$ref": "AAAAAAGADqmPod077II="
 													},
 													"font": "Arial;13;0",
-													"left": 40.72998046875,
+													"left": 39.99365234375,
 													"top": 333,
-													"width": 112.7822265625,
+													"width": 103.146484375,
 													"height": 13,
 													"text": "Validacija podataka"
 												},
@@ -1381,7 +1381,7 @@
 													"font": "Arial;13;1",
 													"left": 21,
 													"top": 333,
-													"width": 14.72998046875,
+													"width": 13.99365234375,
 													"height": 13,
 													"text": "alt"
 												},
@@ -1414,7 +1414,7 @@
 																	"font": "Arial;13;0",
 																	"left": 36,
 																	"top": 366,
-																	"width": 58.5380859375,
+																	"width": 57.03369140625,
 																	"height": 13,
 																	"text": "[nevalidni]"
 																}
@@ -1447,7 +1447,7 @@
 																	"font": "Arial;13;0",
 																	"left": 36,
 																	"top": 448,
-																	"width": 44.078125,
+																	"width": 44.763671875,
 																	"height": 13,
 																	"text": "[validni]"
 																}
@@ -2822,7 +2822,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGADqD6jdyrHm8="
 							},
-							"name": "provjeriiPodatke"
+							"name": "provjeriPodatke"
 						},
 						{
 							"_type": "UMLOperation",

@@ -454,7 +454,7 @@
 											"font": "Arial;13;1",
 											"left": 421,
 											"top": 367,
-											"width": 58.5,
+											"width": 112.3408203125,
 											"height": 13,
 											"text": "Kontroler"
 										},
@@ -485,7 +485,7 @@
 									"font": "Arial;13;0",
 									"left": 416,
 									"top": 360,
-									"width": 68.5,
+									"width": 122.3408203125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAQbYsRKJMt9A="
@@ -512,7 +512,7 @@
 									"font": "Arial;13;0",
 									"left": 416,
 									"top": 385,
-									"width": 68.5,
+									"width": 122.3408203125,
 									"height": 10
 								},
 								{
@@ -537,16 +537,16 @@
 											"font": "Arial;13;0",
 											"left": 421,
 											"top": 400,
-											"width": 58.5,
+											"width": 112.3408203125,
 											"height": 13,
-											"text": "+obradi()",
+											"text": "+azurirajKorisnika()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 416,
 									"top": 395,
-									"width": 68.5,
+									"width": 122.3408203125,
 									"height": 23
 								},
 								{
@@ -582,7 +582,7 @@
 							"containerChangeable": true,
 							"left": 416,
 							"top": 360,
-							"width": 68.5,
+							"width": 122.3408203125,
 							"height": 58,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAQbYsRKJLPk4="
@@ -1375,9 +1375,9 @@
 														"$ref": "AAAAAAGAQbe356LAZ/o="
 													},
 													"font": "Arial;13;0",
-													"left": 430,
+													"left": 408,
 													"top": 243,
-													"width": 78.04443359375,
+													"width": 122.814453125,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -1385,7 +1385,7 @@
 														"$ref": "AAAAAAGAQbe36KLBy10="
 													},
 													"edgePosition": 1,
-													"text": "4 : obradi()"
+													"text": "4 : azurirajKorisnika()"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1800,7 +1800,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGAQbYsQ6JIeCY="
 							},
-							"name": "obradi"
+							"name": "azurirajKorisnika"
 						}
 					]
 				}

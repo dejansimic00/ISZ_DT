@@ -240,7 +240,7 @@
 											"font": "Arial;13;1",
 											"left": 445,
 											"top": 199,
-											"width": 113.08349609375,
+											"width": 114.50537109375,
 											"height": 13,
 											"text": "UIForma"
 										},
@@ -273,7 +273,7 @@
 									"font": "Arial;13;0",
 									"left": 440,
 									"top": 192,
-									"width": 123.08349609375,
+									"width": 124.50537109375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGASyIXNR3Is2Y="
@@ -300,7 +300,7 @@
 									"font": "Arial;13;0",
 									"left": 440,
 									"top": 217,
-									"width": 123.08349609375,
+									"width": 124.50537109375,
 									"height": 10
 								},
 								{
@@ -325,17 +325,34 @@
 											"font": "Arial;13;0",
 											"left": 445,
 											"top": 232,
-											"width": 113.08349609375,
+											"width": 114.50537109375,
 											"height": 13,
 											"text": "+pregledKorisnika()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGAjnmaQre0Njc=",
+											"_parent": {
+												"$ref": "AAAAAAGASyIXNR3NayM="
+											},
+											"model": {
+												"$ref": "AAAAAAGASytnhR+1ANI="
+											},
+											"font": "Arial;13;0",
+											"left": 445,
+											"top": 247,
+											"width": 114.50537109375,
+											"height": 13,
+											"text": "+prikazInformacija()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 440,
 									"top": 227,
-									"width": 123.08349609375,
-									"height": 23
+									"width": 124.50537109375,
+									"height": 38
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -372,8 +389,8 @@
 							"containerChangeable": true,
 							"left": 440,
 							"top": 192,
-							"width": 123.08349609375,
-							"height": 58,
+							"width": 124.50537109375,
+							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAGASyIXNB3HO5U="
 							},
@@ -618,8 +635,8 @@
 														"$ref": "AAAAAAGASxyZMh1opKI="
 													},
 													"font": "Arial;13;0",
-													"left": 24.72998046875,
-													"top": 29,
+													"left": 32.72998046875,
+													"top": 5,
 													"width": 178.0234375,
 													"height": 13,
 													"text": "Pregled informacija o korisniku"
@@ -631,15 +648,15 @@
 														"$ref": "AAAAAAGASxyZMh1opKI="
 													},
 													"font": "Arial;13;1",
-													"left": 5,
-													"top": 29,
+													"left": 13,
+													"top": 5,
 													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
 											],
 											"font": "Arial;13;0",
-											"top": 24,
+											"left": 8,
 											"width": 865,
 											"height": 592,
 											"nameLabel": {
@@ -1581,12 +1598,12 @@
 														"$ref": "AAAAAAGASys7hh+fCp4="
 													},
 													"font": "Arial;13;0",
-													"left": 494,
-													"top": 267,
+													"left": 534,
+													"top": 296,
 													"width": 124.97900390625,
 													"height": 13,
-													"alpha": 1.5707963267948966,
-													"distance": 10,
+													"alpha": 1.0603070901399838,
+													"distance": 57.30619512757761,
 													"hostEdge": {
 														"$ref": "AAAAAAGASys7hh+gxmY="
 													},

@@ -190,23 +190,6 @@
 										},
 										{
 											"_type": "UMLOperationView",
-											"_id": "AAAAAAGAS59xFYHMik8=",
-											"_parent": {
-												"$ref": "AAAAAAGACjVjbbb9y2M="
-											},
-											"model": {
-												"$ref": "AAAAAAGAHcdONc0cELg="
-											},
-											"font": "Arial;13;0",
-											"left": 365,
-											"top": 134,
-											"width": 181.720703125,
-											"height": 13,
-											"text": "+prikaziProzorZaPotvrdu()",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
 											"_id": "AAAAAAGAS59xFoHPrQE=",
 											"_parent": {
 												"$ref": "AAAAAAGACjVjbbb9y2M="
@@ -216,7 +199,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 365,
-											"top": 149,
+											"top": 134,
 											"width": 181.720703125,
 											"height": 13,
 											"text": "+prikazFormeZaPrijavu()",
@@ -233,7 +216,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 365,
-											"top": 164,
+											"top": 149,
 											"width": 181.720703125,
 											"height": 13,
 											"text": "+otkaziOdjavu()",
@@ -250,7 +233,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 365,
-											"top": 179,
+											"top": 164,
 											"width": 181.720703125,
 											"height": 13,
 											"text": "+zatvaranjeProzoraZaPotvrdu()",
@@ -261,7 +244,7 @@
 									"left": 360,
 									"top": 99,
 									"width": 191.720703125,
-									"height": 98
+									"height": 83
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -2976,14 +2959,6 @@
 								"$ref": "AAAAAAGACjVjbLb0qpo="
 							},
 							"name": "obavjestenje"
-						},
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAGAHcdONc0cELg=",
-							"_parent": {
-								"$ref": "AAAAAAGACjVjbLb0qpo="
-							},
-							"name": "prikaziProzorZaPotvrdu"
 						},
 						{
 							"_type": "UMLOperation",
