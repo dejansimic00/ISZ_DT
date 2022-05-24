@@ -234,7 +234,7 @@
 											"font": "Arial;13;1",
 											"left": 285,
 											"top": 63,
-											"width": 108.03076171875,
+											"width": 149.2080078125,
 											"height": 13,
 											"text": "UIForma"
 										},
@@ -267,7 +267,7 @@
 									"font": "Arial;13;0",
 									"left": 280,
 									"top": 56,
-									"width": 118.03076171875,
+									"width": 159.2080078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF//9nMvcoRkQ0="
@@ -294,7 +294,7 @@
 									"font": "Arial;13;0",
 									"left": 280,
 									"top": 81,
-									"width": 118.03076171875,
+									"width": 159.2080078125,
 									"height": 10
 								},
 								{
@@ -319,7 +319,7 @@
 											"font": "Arial;13;0",
 											"left": 285,
 											"top": 96,
-											"width": 108.03076171875,
+											"width": 149.2080078125,
 											"height": 13,
 											"text": "+prikazi()",
 											"horizontalAlignment": 0
@@ -336,7 +336,7 @@
 											"font": "Arial;13;0",
 											"left": 285,
 											"top": 111,
-											"width": 108.03076171875,
+											"width": 149.2080078125,
 											"height": 13,
 											"text": "+sacuvajPodatke()",
 											"horizontalAlignment": 0
@@ -353,7 +353,7 @@
 											"font": "Arial;13;0",
 											"left": 285,
 											"top": 126,
-											"width": 108.03076171875,
+											"width": 149.2080078125,
 											"height": 13,
 											"text": "+prikaziGreske()",
 											"horizontalAlignment": 0
@@ -370,16 +370,16 @@
 											"font": "Arial;13;0",
 											"left": 285,
 											"top": 141,
-											"width": 108.03076171875,
+											"width": 149.2080078125,
 											"height": 13,
-											"text": "+prikaziMain()",
+											"text": "+prikaziPocetnuStranicu()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 280,
 									"top": 91,
-									"width": 118.03076171875,
+									"width": 159.2080078125,
 									"height": 68
 								},
 								{
@@ -417,7 +417,7 @@
 							"containerChangeable": true,
 							"left": 280,
 							"top": 56,
-							"width": 118.03076171875,
+							"width": 159.2080078125,
 							"height": 103,
 							"nameCompartment": {
 								"$ref": "AAAAAAF//9nMvcoQ5ak="
@@ -2642,17 +2642,17 @@
 														"$ref": "AAAAAAGAHcQRWuwW7EU="
 													},
 													"font": "Arial;13;0",
-													"left": 416,
-													"top": 507,
-													"width": 98.7314453125,
+													"left": 423,
+													"top": 512,
+													"width": 165.94677734375,
 													"height": 13,
-													"alpha": 1.5907926567696473,
-													"distance": 50.00999900019995,
+													"alpha": 1.526867564539026,
+													"distance": 91.08786966440702,
 													"hostEdge": {
 														"$ref": "AAAAAAGAHcQRWuwXvsM="
 													},
 													"edgePosition": 1,
-													"text": "11 : prikaziMain()"
+													"text": "11 : prikaziPocetnuStranicu()"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -3189,7 +3189,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF//9nMvcoNsug="
 							},
-							"name": "prikaziMain"
+							"name": "prikaziPocetnuStranicu"
 						}
 					]
 				},

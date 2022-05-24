@@ -1644,7 +1644,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 56.72998046875,
-													"top": 373,
+													"top": 365,
 													"width": 87.00439453125,
 													"height": 13,
 													"text": "podaci validni?"
@@ -1657,7 +1657,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 37,
-													"top": 373,
+													"top": 365,
 													"width": 14.72998046875,
 													"height": 13,
 													"text": "alt"
@@ -1690,7 +1690,7 @@
 																	},
 																	"font": "Arial;13;0",
 																	"left": 52,
-																	"top": 406,
+																	"top": 398,
 																	"width": 23.841796875,
 																	"height": 13,
 																	"text": "[Da]"
@@ -1698,7 +1698,7 @@
 															],
 															"font": "Arial;13;0",
 															"left": 32,
-															"top": 391,
+															"top": 383,
 															"width": 1121,
 															"height": 194,
 															"guardLabel": {
@@ -1723,7 +1723,7 @@
 																	},
 																	"font": "Arial;13;0",
 																	"left": 52,
-																	"top": 600,
+																	"top": 592,
 																	"width": 23.841796875,
 																	"height": 13,
 																	"text": "[Ne]"
@@ -1731,7 +1731,7 @@
 															],
 															"font": "Arial;13;0",
 															"left": 32,
-															"top": 585,
+															"top": 577,
 															"width": 1121,
 															"height": 88,
 															"guardLabel": {
@@ -1741,14 +1741,14 @@
 													],
 													"font": "Arial;13;0",
 													"left": 32,
-													"top": 391,
+													"top": 383,
 													"width": 1121,
 													"height": 282
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 32,
-											"top": 368,
+											"top": 360,
 											"width": 1121,
 											"height": 305,
 											"nameLabel": {
@@ -1782,7 +1782,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 817,
-													"top": 298,
+													"top": 282,
 													"width": 135.12890625,
 													"height": 13,
 													"alpha": -1.5802310100908146,
@@ -1805,7 +1805,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 1014,
-													"top": 299,
+													"top": 283,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
@@ -1826,7 +1826,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 980,
-													"top": 300,
+													"top": 284,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
@@ -1846,7 +1846,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 953,
-													"top": 316,
+													"top": 300,
 													"width": 14,
 													"height": 45
 												}
@@ -1858,7 +1858,7 @@
 											"tail": {
 												"$ref": "AAAAAAGADnS213Sd7UQ="
 											},
-											"points": "960:296;990:296;990:316;966:316",
+											"points": "960:280;990:280;990:300;966:300",
 											"nameLabel": {
 												"$ref": "AAAAAAGAHfd3CgNXHwU="
 											},

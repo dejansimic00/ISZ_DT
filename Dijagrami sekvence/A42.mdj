@@ -225,7 +225,7 @@
 											"font": "Arial;13;1",
 											"left": 413,
 											"top": 191,
-											"width": 113.08349609375,
+											"width": 128.24169921875,
 											"height": 13,
 											"text": "UIForma"
 										},
@@ -256,7 +256,7 @@
 									"font": "Arial;13;0",
 									"left": 408,
 									"top": 184,
-									"width": 123.08349609375,
+									"width": 138.24169921875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAQahODW1PBtY="
@@ -283,7 +283,7 @@
 									"font": "Arial;13;0",
 									"left": 408,
 									"top": 209,
-									"width": 123.08349609375,
+									"width": 138.24169921875,
 									"height": 10
 								},
 								{
@@ -308,7 +308,7 @@
 											"font": "Arial;13;0",
 											"left": 413,
 											"top": 224,
-											"width": 113.08349609375,
+											"width": 128.24169921875,
 											"height": 13,
 											"text": "+odaberiKorisnika()",
 											"horizontalAlignment": 0
@@ -325,16 +325,16 @@
 											"font": "Arial;13;0",
 											"left": 413,
 											"top": 239,
-											"width": 113.08349609375,
+											"width": 128.24169921875,
 											"height": 13,
-											"text": "+deaktiviraj()",
+											"text": "+deaktivirajKorisnika()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 408,
 									"top": 219,
-									"width": 123.08349609375,
+									"width": 138.24169921875,
 									"height": 38
 								},
 								{
@@ -370,7 +370,7 @@
 							"containerChangeable": true,
 							"left": 408,
 							"top": 184,
-							"width": 123.08349609375,
+							"width": 138.24169921875,
 							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAQahODW1O618="
@@ -2177,7 +2177,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGAQahODG1Lsyo="
 							},
-							"name": "deaktiviraj"
+							"name": "deaktivirajKorisnika"
 						}
 					]
 				},

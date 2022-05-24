@@ -446,7 +446,7 @@
 											"font": "Arial;13;1",
 											"left": 197,
 											"top": 295,
-											"width": 94.28173828125,
+											"width": 115.96533203125,
 											"height": 13,
 											"text": "Kontroler"
 										},
@@ -477,7 +477,7 @@
 									"font": "Arial;13;0",
 									"left": 192,
 									"top": 288,
-									"width": 104.28173828125,
+									"width": 125.96533203125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGASyIs2B3yEFo="
@@ -504,7 +504,7 @@
 									"font": "Arial;13;0",
 									"left": 192,
 									"top": 313,
-									"width": 104.28173828125,
+									"width": 125.96533203125,
 									"height": 10
 								},
 								{
@@ -529,16 +529,16 @@
 											"font": "Arial;13;0",
 											"left": 197,
 											"top": 328,
-											"width": 94.28173828125,
+											"width": 115.96533203125,
 											"height": 13,
-											"text": "+obradi()",
+											"text": "+obradiInformacije()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 192,
 									"top": 323,
-									"width": 104.28173828125,
+									"width": 125.96533203125,
 									"height": 23
 								},
 								{
@@ -574,7 +574,7 @@
 							"containerChangeable": true,
 							"left": 192,
 							"top": 288,
-							"width": 104.28173828125,
+							"width": 125.96533203125,
 							"height": 58,
 							"nameCompartment": {
 								"$ref": "AAAAAAGASyIs2B3xASE="
@@ -1146,9 +1146,9 @@
 														"$ref": "AAAAAAGASyR8UR58O1s="
 													},
 													"font": "Arial;13;0",
-													"left": 473,
+													"left": 462,
 													"top": 136,
-													"width": 104.75537109375,
+													"width": 126.43896484375,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -1156,7 +1156,7 @@
 														"$ref": "AAAAAAGASyR8UR59a9M="
 													},
 													"edgePosition": 1,
-													"text": "2 : obradi()"
+													"text": "2 : obradiInformacije()"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1932,7 +1932,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGASyIs2B3uEUI="
 							},
-							"name": "obradi"
+							"name": "obradiInformacije"
 						}
 					]
 				}

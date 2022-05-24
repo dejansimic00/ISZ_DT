@@ -734,7 +734,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGAChgm7baai5c="
 									},
-									"name": "SequenceDiagram1",
+									"name": "Odjava sa sistema",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -755,9 +755,9 @@
 													"font": "Arial;13;0",
 													"left": 24.72998046875,
 													"top": 5,
-													"width": 115.9052734375,
+													"width": 107.9326171875,
 													"height": 13,
-													"text": "SequenceDiagram1"
+													"text": "Odjava sa sistema"
 												},
 												{
 													"_type": "LabelView",
@@ -2510,12 +2510,12 @@
 														"$ref": "AAAAAAGAHdBJYc42HDU="
 													},
 													"font": "Arial;13;0",
-													"left": 110,
-													"top": 521,
+													"left": 327,
+													"top": 552,
 													"width": 199.42431640625,
 													"height": 13,
-													"alpha": -1.5860633175068382,
-													"distance": 131.01526628603247,
+													"alpha": 1.2594250559178821,
+													"distance": 91.39474820797966,
 													"hostEdge": {
 														"$ref": "AAAAAAGAHdBJYc43utM="
 													},
