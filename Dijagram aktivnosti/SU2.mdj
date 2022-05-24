@@ -25,7 +25,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/gAJeRMvT5nk="
 							},
-							"name": "ActivityDiagram1",
+							"name": "Odjava sa sistema",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",

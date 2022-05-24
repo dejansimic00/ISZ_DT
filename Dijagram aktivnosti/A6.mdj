@@ -34,7 +34,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/1mVZ2ORCHKY="
 							},
-							"name": "ActivityDiagram1",
+							"name": "Azuriraj kamp",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -1298,7 +1298,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 791,
-											"top": 463,
+											"top": 459,
 											"width": 18.05908203125,
 											"height": 13,
 											"alpha": -5.7932281690128935,
@@ -1321,7 +1321,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 786,
-											"top": 493,
+											"top": 489,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1342,7 +1342,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 831,
-											"top": 494,
+											"top": 490,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1360,7 +1360,7 @@
 										"$ref": "AAAAAAF/1nU3MeYe14s="
 									},
 									"lineStyle": 1,
-									"points": "695:660;816:656;816:344;745:342",
+									"points": "695:660;816:656;816:336;745:337",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF/1natJOZ8oIE="

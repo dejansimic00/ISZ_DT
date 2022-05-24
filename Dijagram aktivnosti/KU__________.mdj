@@ -25,7 +25,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/1036T+sS4l0="
 							},
-							"name": "ActivityDiagram1",
+							"name": "Unos osobe u sistem",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -1781,9 +1781,9 @@
 													"font": "Arial;13;1",
 													"left": 349,
 													"top": 951,
-													"width": 213.09716796875,
+													"width": 252.80810546875,
 													"height": 13,
-													"text": "Dodavanje osobe u bazu podataka"
+													"text": "Upis podataka o osobi u perzistentni sloj"
 												},
 												{
 													"_type": "LabelView",
@@ -1816,7 +1816,7 @@
 											"font": "Arial;13;0",
 											"left": 344,
 											"top": 944,
-											"width": 223.09716796875,
+											"width": 262.80810546875,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF/11dK8uzCXFE="
@@ -1839,7 +1839,7 @@
 									"containerChangeable": true,
 									"left": 344,
 									"top": 944,
-									"width": 223.09716796875,
+									"width": 262.80810546875,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAF/11dK8uzBlZc="
@@ -2759,7 +2759,7 @@
 												"$ref": "AAAAAAF/12Jvfu6zy7o="
 											},
 											"font": "Arial;13;0",
-											"left": 535,
+											"left": 607,
 											"top": 431,
 											"width": 18.05908203125,
 											"height": 13,
@@ -2782,7 +2782,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 527,
+											"left": 599,
 											"top": 304,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -2803,7 +2803,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 528,
+											"left": 600,
 											"top": 259,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -2821,7 +2821,7 @@
 									"tail": {
 										"$ref": "AAAAAAF/11xdVu4UGAI="
 									},
-									"points": "510:788;528:788;528:280;147:280;147:234",
+									"points": "510:788;600:788;600:280;147:280;147:234",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF/12Jvfu61sPc="
@@ -3533,7 +3533,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF/107XvusgqbI="
 									},
-									"name": "Dodavanje osobe u bazu podataka"
+									"name": "Upis podataka o osobi u perzistentni sloj"
 								},
 								{
 									"_type": "UMLObjectNode",
