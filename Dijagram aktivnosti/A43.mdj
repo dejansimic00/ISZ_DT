@@ -34,7 +34,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/3A+olxzcggk="
 							},
-							"name": "ActivityDiagram1",
+							"name": "Azuriranje korisnickog naloga",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -883,8 +883,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 438,
-									"top": 648,
+									"left": 416,
+									"top": 616,
 									"width": 26,
 									"height": 26
 								},
@@ -1378,7 +1378,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 179,
-											"top": 474,
+											"top": 459,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -1399,7 +1399,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 179,
-											"top": 459,
+											"top": 444,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1420,7 +1420,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 179,
-											"top": 504,
+											"top": 489,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1437,7 +1437,7 @@
 									"tail": {
 										"$ref": "AAAAAAF/3BOo8x1SSLU="
 									},
-									"points": "179:448;179:495;373:495",
+									"points": "179:448;179:480;373:480",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF/3BaK/x6GQTY="
@@ -1564,8 +1564,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 453,
-											"top": 601,
+											"left": 442,
+											"top": 588,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -1585,8 +1585,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 468,
-											"top": 598,
+											"left": 457,
+											"top": 588,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1606,8 +1606,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 424,
-											"top": 608,
+											"left": 413,
+											"top": 589,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1625,7 +1625,7 @@
 										"$ref": "AAAAAAF/3BVM9h3slXM="
 									},
 									"lineStyle": 1,
-									"points": "432:576;447:647",
+									"points": "428:576;428:615",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF/3BaYHB6ojhA="

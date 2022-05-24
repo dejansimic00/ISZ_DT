@@ -25,7 +25,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/3DJJbsEucAI="
 							},
-							"name": "ActivityDiagram1",
+							"name": "Pregled detalja o odabranoj osobi",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -843,7 +843,7 @@
 													"top": 407,
 													"width": 183,
 													"height": 13,
-													"text": "Prikaz detaljnih informacijja"
+													"text": "Prikaz detaljnih informacija"
 												},
 												{
 													"_type": "LabelView",
@@ -1031,7 +1031,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -32,
+													"left": -96,
 													"top": 32,
 													"height": 13
 												},
@@ -1042,11 +1042,11 @@
 														"$ref": "AAAAAAF/3Dcg18SRKYU="
 													},
 													"font": "Arial;13;1",
-													"left": 93,
+													"left": 61,
 													"top": 543,
-													"width": 120.64990234375,
+													"width": 170.47900390625,
 													"height": 13,
-													"text": "Pregled informacija"
+													"text": "Pregled informacija o osobi"
 												},
 												{
 													"_type": "LabelView",
@@ -1056,7 +1056,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -32,
+													"left": -96,
 													"top": 32,
 													"width": 86.6708984375,
 													"height": 13,
@@ -1070,16 +1070,16 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -32,
+													"left": -96,
 													"top": 32,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 88,
+											"left": 56,
 											"top": 536,
-											"width": 130.64990234375,
+											"width": 180.47900390625,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF/3Dcg18SSnaQ="
@@ -1097,9 +1097,9 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 88,
+									"left": 56,
 									"top": 536,
-									"width": 130.64990234375,
+									"width": 180.47900390625,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAF/3Dcg18SRKYU="
@@ -1424,8 +1424,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 288,
-											"top": 528,
+											"left": 291,
+											"top": 527,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -1445,7 +1445,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 292,
+											"left": 295,
 											"top": 542,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -1466,8 +1466,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 281,
-											"top": 499,
+											"left": 284,
+											"top": 498,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1485,7 +1485,7 @@
 										"$ref": "AAAAAAF/3DbQOMRzCxY="
 									},
 									"lineStyle": 1,
-									"points": "351:503;219:538",
+									"points": "351:503;226:535",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF/3DduGMTlyIU="
@@ -1518,8 +1518,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 164,
-											"top": 598,
+											"left": 161,
+											"top": 597,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -1539,8 +1539,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 179,
-											"top": 599,
+											"left": 176,
+											"top": 596,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1560,8 +1560,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 135,
-											"top": 597,
+											"left": 132,
+											"top": 598,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1579,7 +1579,7 @@
 										"$ref": "AAAAAAF/3Dcg18SQViY="
 									},
 									"lineStyle": 1,
-									"points": "151:577;149:631",
+									"points": "146:577;148:631",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF/3DeKbsT49cw="
@@ -1631,7 +1631,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/3DJJbsEucAI="
 							},
-							"name": "Prikaz detaljnih informacijja"
+							"name": "Prikaz detaljnih informacija"
 						},
 						{
 							"_type": "UMLObjectNode",
@@ -1653,7 +1653,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF/3DJJbsEucAI="
 							},
-							"name": "Pregled informacija"
+							"name": "Pregled informacija o osobi"
 						},
 						{
 							"_type": "UMLActivityFinalNode",
