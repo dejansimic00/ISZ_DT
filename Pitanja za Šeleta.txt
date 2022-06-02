@@ -1,2 +1,3 @@
 Koliko je bilo kampova, unesrecenih u poplavama?
 Statisticke pretpostavke vezane za migrante?
+Zakonska ogranicenja( npr za uzimanje podataka, maticni broj/licna)
