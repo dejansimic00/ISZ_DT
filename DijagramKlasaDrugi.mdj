@@ -1421,13 +1421,47 @@
 											"height": 13,
 											"text": "+odjavaOtkazana()",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGBi5zPNt3xk74=",
+											"_parent": {
+												"$ref": "AAAAAAGAvJUIyaoxwp8="
+											},
+											"model": {
+												"$ref": "AAAAAAGBi5zPId3uvTU="
+											},
+											"font": "Arial;13;0",
+											"left": 429,
+											"top": 409,
+											"width": 175,
+											"height": 13,
+											"text": "+omoguciUnos()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGBi50qxN34iTs=",
+											"_parent": {
+												"$ref": "AAAAAAGAvJUIyaoxwp8="
+											},
+											"model": {
+												"$ref": "AAAAAAGBi50quN31LCg="
+											},
+											"font": "Arial;13;0",
+											"left": 429,
+											"top": 424,
+											"width": 175,
+											"height": 13,
+											"text": "+sacuvajPodatke()",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 424,
 									"top": 59,
 									"width": 185,
-									"height": 353
+									"height": 383
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -1467,7 +1501,7 @@
 							"left": 424,
 							"top": 24,
 							"width": 185,
-							"height": 393,
+							"height": 418,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAvJUIxqoru4I="
 							},
@@ -2455,6 +2489,22 @@
 								"$ref": "AAAAAAGAvJUIw6ooFOQ="
 							},
 							"name": "odjavaOtkazana"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGBi5zPId3uvTU=",
+							"_parent": {
+								"$ref": "AAAAAAGAvJUIw6ooFOQ="
+							},
+							"name": "omoguciUnos"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGBi50quN31LCg=",
+							"_parent": {
+								"$ref": "AAAAAAGAvJUIw6ooFOQ="
+							},
+							"name": "sacuvajPodatke"
 						}
 					]
 				},

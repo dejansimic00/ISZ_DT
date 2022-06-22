@@ -1,0 +1,3 @@
+Izbrisani KU21 i KU31
+Izbrisan Generisnje ID
+Potrebni dijagrami sekvence za KU2 i KU3
